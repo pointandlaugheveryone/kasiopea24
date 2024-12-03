@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cffxAXrogH8YHDY0nT/69ORxJi2OX82RKrnQ/SECjwNotkZ9JJKiMpMpBKgMowke6bQQDlRg2FYQPhfwYKW21g==",
+  "success": true,
+  "projectFilePath": "/home/roni/repos/kasiopea24/F/F.csproj",
+  "expectedPackageFiles": [
+    "/home/roni/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

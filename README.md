@@ -1,1 +1,1 @@
-3-12-2024 i think i give up, thats it i think im 40th
+My solutions for the (kasiopea.matfyz.cz)[kasiopea programming competition](https://kasiopea.matfyz.cz).
